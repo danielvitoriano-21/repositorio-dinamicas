@@ -1,0 +1,42 @@
+id: DH-003
+titulo: Modelagem de Processos com BPMN
+tipo: Hard Skill
+categoria: Modelagem de Software
+versao: 1.0
+autor: Baseado no trabalho de Stela Marisco
+data_criacao: 2026-02-25
+
+descricao_resumida: >
+  Dinâmica colaborativa para modelagem de processos usando BPMN.
+
+objetivos:
+  - Aplicar notação BPMN
+  - Modelar processos
+  - Analisar fluxos
+
+publico_alvo:
+  - Estudantes de Engenharia de Software
+
+tempo_execucao_minutos: 60
+tamanho_grupo_min: 3
+tamanho_grupo_max: 6
+nivel_complexidade: Medio
+
+contexto_aplicacao:
+  - Disciplina de Modelagem
+
+materiais_necessarios:
+  - Descrição textual
+  - Ferramenta BPMN
+
+palavras_chave:
+  - bpmn
+  - modelagem
+  - processos
+  - hardskill
+
+area_conhecimento:
+  - Engenharia de Software
+
+licenca: CC-BY-4.0
+status: validado
