@@ -1,0 +1,23 @@
+id: DS-002
+titulo: Trabalho em Equipe na Engenharia de Software
+tipo: Soft Skill
+categoria: Colaboração
+versao: 1.0
+autor: Baseado no trabalho de Stela Marisco
+data_criacao: 2026-02-25
+
+descricao_resumida: >
+  Dinâmica para desenvolvimento de colaboração
+  em equipes de software.
+
+palavras_chave:
+  - colaboracao
+  - trabalho_em_equipe
+  - softskill
+  - engenharia_de_software
+
+area_conhecimento:
+  - Engenharia de Software
+
+licenca: CC-BY-4.0
+status: validado
