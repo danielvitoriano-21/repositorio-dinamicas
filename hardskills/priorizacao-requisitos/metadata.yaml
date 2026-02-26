@@ -1,0 +1,43 @@
+id: DH-002
+titulo: Priorização de Requisitos
+tipo: Hard Skill
+categoria: Engenharia de Requisitos
+versao: 1.0
+autor: Baseado no trabalho de Stela Marisco
+data_criacao: 2026-02-25
+
+descricao_resumida: >
+  Dinâmica para aplicação prática de técnicas
+  de priorização de requisitos.
+
+objetivos:
+  - Aplicar critérios de priorização
+  - Analisar valor de negócio
+  - Estimar esforço técnico
+
+publico_alvo:
+  - Estudantes de Engenharia de Software
+
+tempo_execucao_minutos: 50
+tamanho_grupo_min: 4
+tamanho_grupo_max: 10
+nivel_complexidade: Medio
+
+contexto_aplicacao:
+  - Disciplina de Engenharia de Requisitos
+
+materiais_necessarios:
+  - Lista de requisitos
+  - Post-its
+
+palavras_chave:
+  - requisitos
+  - priorizacao
+  - engenharia_de_software
+  - hardskill
+
+area_conhecimento:
+  - Engenharia de Software
+
+licenca: CC-BY-4.0
+status: validado
