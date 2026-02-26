@@ -142,12 +142,8 @@ Use:
 * 🔎 Busca manual → quando souber o termo exato.
 * 🤖 Copilot → quando precisar de interpretação conceitual ou análise.
 
----
+## 📘 Documentação Complementar
 
-Se você quiser, posso agora:
-
-* Deixar esse README mais acadêmico (estilo dissertação)
-* Ou deixar mais didático (estilo manual corporativo)
-* Ou montar uma versão visual mais organizada com emojis e divisões mais modernas
-
-Qual estilo você prefere para o repositório?
+- [Guia Completo de Busca](./GUIA-BUSCA.md)
+- [Manual de Uso do Copilot](./MANUAL-COPILOT.md)
+- [Documentação Técnica da POC](./DOCUMENTACAO-BUSCA.md)
