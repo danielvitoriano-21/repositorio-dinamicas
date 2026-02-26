@@ -120,7 +120,7 @@ O Copilot permite recuperação semântica (conceitual), superando limitações 
 ✔ Seja específico
 ✔ Use termos do metadata (nível, categoria, tipo)
 ✔ Peça para listar ID e caminho do arquivo
-✔ Solicite consolidação em tabela se necessário
+✔ Solicite consolidação em tabela,  se necessário
 
 ---
 
