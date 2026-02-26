@@ -1,0 +1,19 @@
+id: DS-003
+titulo: Pensamento Crítico na Análise de Requisitos
+tipo: Soft Skill
+categoria: Pensamento Critico
+versao: 1.0
+autor: Baseado no trabalho de Stela Marisco
+data_criacao: 2026-02-25
+
+palavras_chave:
+  - pensamento_critico
+  - analise
+  - softskill
+  - requisitos
+
+area_conhecimento:
+  - Engenharia de Software
+
+licenca: CC-BY-4.0
+status: validado
