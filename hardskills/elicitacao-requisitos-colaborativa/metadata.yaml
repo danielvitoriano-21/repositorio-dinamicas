@@ -1,0 +1,45 @@
+id: DH-001
+titulo: Elicitação de Requisitos Colaborativa
+tipo: Hard Skill
+categoria: Engenharia de Requisitos
+versao: 1.0
+autor: Baseado no trabalho de Stela Marisco
+data_criacao: 2026-02-25
+
+descricao_resumida: >
+  Dinâmica prática para exercitar técnicas de elicitação
+  de requisitos em contexto acadêmico.
+
+objetivos:
+  - Identificar requisitos funcionais
+  - Identificar requisitos não funcionais
+  - Melhorar comunicação técnica
+
+publico_alvo:
+  - Estudantes de Computação
+  - Estudantes de Engenharia de Software
+
+tempo_execucao_minutos: 60
+tamanho_grupo_min: 4
+tamanho_grupo_max: 8
+nivel_complexidade: Medio
+
+contexto_aplicacao:
+  - Disciplina de Engenharia de Requisitos
+
+materiais_necessarios:
+  - Documento de cenário
+  - Papel
+  - Caneta
+
+palavras_chave:
+  - requisitos
+  - elicitação
+  - engenharia_de_software
+  - hardskill
+
+area_conhecimento:
+  - Engenharia de Software
+
+licenca: CC-BY-4.0
+status: validado
