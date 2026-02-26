@@ -1,0 +1,22 @@
+id: DH-004
+titulo: Validação de Requisitos
+tipo: Hard Skill
+categoria: Engenharia de Requisitos
+versao: 1.0
+autor: Baseado no trabalho de Stela Marisco
+data_criacao: 2026-02-25
+
+descricao_resumida: >
+  Dinâmica de análise crítica para validação de requisitos.
+
+palavras_chave:
+  - validacao
+  - requisitos
+  - qualidade
+  - hardskill
+
+area_conhecimento:
+  - Engenharia de Software
+
+licenca: CC-BY-4.0
+status: validado
