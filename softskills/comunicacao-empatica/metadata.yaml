@@ -1,0 +1,45 @@
+id: DS-001
+titulo: Comunicação Empática
+tipo: Soft Skill
+categoria: Desenvolvimento Interpessoal
+versao: 1.0
+autor: Seu Nome
+data_criacao: 2026-02-25
+
+descricao_resumida: >
+  Dinâmica voltada ao desenvolvimento da escuta ativa
+  e empatia em grupos.
+
+objetivos:
+  - Desenvolver escuta ativa
+  - Melhorar comunicação interpessoal
+
+publico_alvo:
+  - Estudantes de graduação
+  - Equipes corporativas
+
+tempo_execucao_minutos: 40
+tamanho_grupo_min: 5
+tamanho_grupo_max: 20
+nivel_complexidade: Baixo
+
+contexto_aplicacao:
+  - Sala de aula
+  - Treinamento corporativo
+
+materiais_necessarios:
+  - Papel
+  - Caneta
+
+palavras_chave:
+  - empatia
+  - comunicacao
+  - escuta_ativa
+  - softskill
+
+area_conhecimento:
+  - Engenharia de Software
+  - Educação
+
+licenca: CC-BY-4.0
+status: validado
